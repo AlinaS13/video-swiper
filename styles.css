@@ -1,0 +1,14 @@
+@media (min-width: 992px) {
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="799dd0b6-e27f-0c9b-9baa-329540f5a3b0"] {
+    opacity: 0;
+  }
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="559743fe-12d6-88db-69e5-5f8aef6e8036"] {
+    opacity: 0;
+  }
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="d265ced7-d44f-2ce7-8dff-f1f4feb016c5"] {
+    height: 400px;
+  }
+}
